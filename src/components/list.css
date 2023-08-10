@@ -1,0 +1,38 @@
+
+.content
+{
+     display: inline-block;
+     margin-right: 150px;
+     padding:10px;
+   
+   font-size:22px;
+   width:140px;
+     font-weight: 500; 
+   
+}
+.del
+{
+     display: inline-block;
+
+}
+.edit
+{
+    
+     display: inline-block;
+}
+
+.del-button
+{
+     height: 40px;
+     width:40px;
+     font-size: 15px ;
+     font-weight: bolder;
+}
+.edit-button
+{
+     height: 40px;
+     width:40px;
+     margin-right: 10px;
+     font-size: 15px ;
+     font-weight: bolder;
+}
